@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deleo237
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning few programming languages
 - 💞️ I’m looking to collaborate on the field of computer engineering
 - 📫 How to reach me is through my email
 
